@@ -28,4 +28,4 @@ spec:
     spec:
       containers:
       - name: fast-con
-        image: ajduxj/fast:25
+        image: ajduxj/fast:26
